@@ -1,4 +1,4 @@
-網址見此：https://charliewuuu.github.io/Buylist/
+網址見此：https://charliewuuu.github.io/buylist/
 
 
 功能：
